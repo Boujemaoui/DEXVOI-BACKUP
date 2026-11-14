@@ -3,6 +3,28 @@ import { BLOG_POST_SLUGS, BLOG_POST_TRANSLATIONS } from './blogTranslations';
 
 export const INITIAL_BLOG_POSTS: BlogPost[] = [
   {
+    id: 'post-auto-1794687163752',
+    slug: 'seo-local-alta-precision-dominio-entidades-proximidad-2026',
+    title: "SEO Local de Alta Precisión: Dominio de Entidades y Proximidad 2026",
+    excerpt: "Domina el Local Pack mediante la arquitectura de entidades, señales de proximidad y optimización de datos estructurados para sectores premium en 2026.",
+    category: 'seo-local',
+    categoryLabel: 'SEO Local & Google Maps',
+    tags: ["SEO Local","Google Maps","Estrategia Digital","Arquitectura de Entidades","Visibilidad Premium"],
+    author: {
+      name: 'Dexvoi Intelligence Team',
+      role: 'Especialistas en Blindaje & Rendimiento Digital',
+      badge: 'Verified Lead'
+    },
+    publishedAt: '2026-11-14T20:12:43.752Z',
+    readingTimeMinutes: 7,
+    featuredImage: 'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80',
+    metaDescription: "Estrategias de SEO local avanzado para clínicas y alta gastronomía. Domina Google Maps con arquitectura de entidades, proximidad y datos estructurados.",
+    keywords: ["SEO Local","Google Maps","Estrategia Digital","Arquitectura de Entidades","Visibilidad Premium"],
+    targetServiceUrl: '/auditoria-seguridad',
+    targetServiceLabel: 'Solicitar Diagnóstico Especializado',
+    content: "## Introducción: La Nueva Era de la Visibilidad Geográfica\n\nEn el ecosistema digital de 2026, el SEO local ha dejado de ser una cuestión de densidad de palabras clave para convertirse en un desafío de **arquitectura de entidades y señales de confianza**. Para clínicas privadas y alta restauración, aparecer en el *Local Pack* no es solo visibilidad, es una cuestión de reputación y autoridad técnica.\n\n## La Arquitectura de Entidades como Pilar Fundamental\n\nGoogle ya no lee texto plano; interpreta grafos de conocimiento. Para que una entidad sea relevante en una ubicación específica, debemos consolidar su presencia mediante:\n\n### 1. Consolidación del Knowledge Graph Local\nLa interconexión de datos entre tu sitio web, Google Business Profile (GBP) y las APIs de terceros debe ser unívoca. Utilizar el marcado `Schema.org` de tipo `LocalBusiness` con `sameAs` hacia fuentes de autoridad es obligatorio.\n\n### 2. Señales de Proximidad y Relevancia\nEl algoritmo de proximidad de Google prioriza la relevancia temática sobre la distancia física en búsquedas de intención 'premium'. La optimización debe centrarse en demostrar que tu entidad es la autoridad absoluta en el servicio específico dentro de la coordenada geográfica.\n\n## Tabla Comparativa: Impacto en el Ranking Local\n\n| Factor de Ranking | Impacto en 2026 | Estrategia de Dexvoi |\n| :--- | :--- | :--- |\n| Proximidad Física | Crítico | Optimización de coordenadas y KML |\n| Autoridad de Entidad | Alto | Marcado Schema granular |\n| CTR en Mapas | Alto | Gestión de UX/UI en Landing Local |\n| Reseñas Verificadas | Medio | Flujos de feedback con IA |\n\n## Checklist para la Auditoría de Autoridad Local\n\n- [ ] **Validación de NAP:** Consistencia absoluta en nombre, dirección y teléfono en todo el ecosistema web.\n- [ ] **Datos Estructurados:** Implementación de `GeoCoordinates` y `AreaServed` en formato JSON-LD.\n- [ ] **Optimización de Media:** Geolocalización de metadatos EXIF en imágenes de alta resolución.\n- [ ] **Estructura de Silos:** Creación de landing pages por cada servicio y zona de influencia.\n\n## Conclusión y Próximos Pasos\n\nEl SEO local de élite requiere una integración perfecta entre la infraestructura técnica y la estrategia de marca. En Dexvoi, no solo optimizamos tu visibilidad, blindamos tu presencia digital contra la volatilidad del algoritmo.\n\n**¿Tu clínica o restaurante está perdiendo cuota de mercado local?** Solicita hoy mismo una **auditoría técnica gratuita** con nuestro equipo de consultores senior de Dexvoi y descubre los cuellos de botella que impiden tu dominio en el Local Pack."
+  },
+  {
     id: 'post-auto-1794666981422',
     slug: 'seo-local-avanzado-optimizacion-entidades-autoridad-geografi',
     title: "SEO Local Avanzado: Optimización de Entidades y Autoridad Geográfica",
