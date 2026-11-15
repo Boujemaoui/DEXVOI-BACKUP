@@ -1156,4 +1156,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://dexvoi.com/es/blog/criptografia-post-cuantica-blindaje-datos-clinicas-elite</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://dexvoi.com/es/blog/criptografia-post-cuantica-blindaje-datos-clinicas-elite"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dexvoi.com/es/blog/criptografia-post-cuantica-blindaje-datos-clinicas-elite"/>
+    <lastmod>2026-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
