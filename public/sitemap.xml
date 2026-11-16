@@ -1164,4 +1164,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://dexvoi.com/es/blog/arquitectura-reservas-cognitivas-ia-generativa-flujos-premiu</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://dexvoi.com/es/blog/arquitectura-reservas-cognitivas-ia-generativa-flujos-premiu"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dexvoi.com/es/blog/arquitectura-reservas-cognitivas-ia-generativa-flujos-premiu"/>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
