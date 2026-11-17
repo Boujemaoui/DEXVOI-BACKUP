@@ -1172,4 +1172,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://dexvoi.com/es/blog/arquitectura-headless-serverless-escalabilidad-premium</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://dexvoi.com/es/blog/arquitectura-headless-serverless-escalabilidad-premium"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dexvoi.com/es/blog/arquitectura-headless-serverless-escalabilidad-premium"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
