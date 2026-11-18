@@ -3,6 +3,28 @@ import { BLOG_POST_SLUGS, BLOG_POST_TRANSLATIONS } from './blogTranslations';
 
 export const INITIAL_BLOG_POSTS: BlogPost[] = [
   {
+    id: 'post-auto-1795020470712',
+    slug: 'blindaje-infraestructuras-criticas-protocolos-seguridad-2026',
+    title: "Blindaje de Infraestructuras Críticas: Protocolos de Seguridad 2026",
+    excerpt: "Descubre cómo proteger activos digitales de alto valor mediante arquitecturas de defensa en profundidad y protocolos de resiliencia ante amenazas 2026.",
+    category: 'ciberseguridad',
+    categoryLabel: 'Ciberseguridad & Compliance',
+    tags: ["Ciberseguridad","Compliance","Infraestructura","Defensa en Profundidad"],
+    author: {
+      name: 'Dexvoi Intelligence Team',
+      role: 'Especialistas en Blindaje & Rendimiento Digital',
+      badge: 'Verified Lead'
+    },
+    publishedAt: '2026-11-18T16:47:50.712Z',
+    readingTimeMinutes: 7,
+    featuredImage: 'https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80',
+    metaDescription: "Optimiza la seguridad de tu clínica o negocio premium con protocolos de defensa en profundidad. Mitiga riesgos y blinda tus datos frente a amenazas 2026.",
+    keywords: ["Ciberseguridad","Compliance","Infraestructura","Defensa en Profundidad"],
+    targetServiceUrl: '/auditoria-seguridad',
+    targetServiceLabel: 'Solicitar Diagnóstico Especializado',
+    content: "## Introducción: La nueva era de la seguridad digital\n\nEn un entorno donde la sofisticación de los ataques avanza más rápido que las defensas convencionales, las empresas premium no pueden permitirse vulnerabilidades. Como Director Técnico en Dexvoi, observamos que el perímetro tradicional ha dejado de existir; la identidad y el dato son ahora el nuevo campo de batalla.\n\n## El paradigma de la Defensa en Profundidad\n\nLa seguridad de una infraestructura crítica no depende de un único firewall, sino de capas interconectadas. La estrategia de defensa en profundidad asegura que, si un vector de ataque es comprometido, existan controles compensatorios que impidan el movimiento lateral del atacante.\n\n### Segmentación de red y micro-segmentación\nLa micro-segmentación permite aislar cargas de trabajo a nivel de aplicación. En clínicas y restaurantes gastronómicos, esto significa que el sistema de reservas está completamente segregado de la base de datos de pacientes o del TPV, limitando el radio de impacto de cualquier brecha.\n\n### Cifrado de extremo a extremo y en reposo\nNo basta con HTTPS. La implementación de estándares AES-256 para datos en reposo y TLS 1.3 para tránsito es el estándar mínimo exigible para garantizar la integridad de la información sensible bajo normativas GDPR y HIPAA.\n\n## Tabla de Impacto: Seguridad Tradicional vs. Enfoque Dexvoi\n\n| Característica | Seguridad Tradicional | Enfoque Dexvoi (2026) |\n| :--- | :--- | :--- |\n| Perímetro | Basado en Firewall | Identidad Zero Trust |\n| Respuesta | Reactiva | Automatizada / IA |\n| Datos | Encriptación básica | Cifrado post-cuántico |\n| Auditoría | Anual | Monitoreo en tiempo real |\n\n## Checklist de resiliencia para infraestructuras premium\n\n- [ ] Implementar autenticación multifactor (MFA) basada en hardware (FIDO2).\n- [ ] Ejecutar escaneos de vulnerabilidades automatizados semanalmente.\n- [ ] Mantener un plan de recuperación ante desastres (DRP) con RTO inferior a 1 hora.\n- [ ] Aplicar políticas de 'Principio de Menor Privilegio' (PoLP) en todos los accesos administrativos.\n- [ ] Monitorización de logs mediante SIEM para detección de anomalías en tiempo real.\n\n## Conclusión y próximos pasos\n\nLa ciberseguridad no es un producto, es un proceso continuo de adaptación. En Dexvoi, integramos tecnología de vanguardia para que tu negocio premium se enfoque en lo que realmente importa: la excelencia en el servicio al cliente.\n\n¿Tu infraestructura está realmente protegida contra las amenazas de 2026? **Solicita hoy tu auditoría de seguridad gratuita con nuestro equipo de expertos en Dexvoi** y recibe un informe detallado sobre el estado de tus activos digitales."
+  },
+  {
     id: 'post-auto-1794935448001',
     slug: 'arquitectura-headless-serverless-escalabilidad-premium',
     title: "Arquitectura Headless y Serverless: Escalabilidad para Negocios Premium",
