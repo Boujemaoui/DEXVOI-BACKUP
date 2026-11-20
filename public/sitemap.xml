@@ -1196,4 +1196,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://dexvoi.com/es/blog/arquitecturas-inmunidad-digital-blindaje-activo-sector-premi</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://dexvoi.com/es/blog/arquitecturas-inmunidad-digital-blindaje-activo-sector-premi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dexvoi.com/es/blog/arquitecturas-inmunidad-digital-blindaje-activo-sector-premi"/>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
