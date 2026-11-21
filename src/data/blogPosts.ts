@@ -3,6 +3,28 @@ import { BLOG_POST_SLUGS, BLOG_POST_TRANSLATIONS } from './blogTranslations';
 
 export const INITIAL_BLOG_POSTS: BlogPost[] = [
   {
+    id: 'post-auto-1795295788951',
+    slug: 'arquitectura-geo-autoridad-dominio-local-pack-negocios-premi',
+    title: "Arquitectura de Geo-Autoridad: Dominio en Local Pack para Negocios Premium",
+    excerpt: "Eleva tu visibilidad en Google Maps mediante la optimización de entidades, señales de proximidad y una arquitectura técnica de datos estructurados de élite.",
+    category: 'seo-local',
+    categoryLabel: 'SEO Local & Google Maps',
+    tags: ["SEO Local","Google Business Profile","Datos Estructurados","Arquitectura Web","Local Pack"],
+    author: {
+      name: 'Dexvoi Intelligence Team',
+      role: 'Especialistas en Blindaje & Rendimiento Digital',
+      badge: 'Verified Lead'
+    },
+    publishedAt: '2026-11-21T21:16:28.951Z',
+    readingTimeMinutes: 7,
+    featuredImage: 'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80',
+    metaDescription: "Domina el Local Pack con estrategias de SEO técnico de alta precisión. Optimizamos tu arquitectura de datos y señales de proximidad para negocios premium.",
+    keywords: ["SEO Local","Google Business Profile","Datos Estructurados","Arquitectura Web","Local Pack"],
+    targetServiceUrl: '/auditoria-seguridad',
+    targetServiceLabel: 'Solicitar Diagnóstico Especializado',
+    content: "## La Nueva Era del SEO Local: Más allá de las Reseñas\n\nEn el ecosistema digital de 2026, el posicionamiento en el *Local Pack* ha dejado de ser una cuestión de volumen de reseñas para convertirse en un desafío de **arquitectura de entidades**. Como consultores en Dexvoi, observamos que los algoritmos de Google priorizan ahora la coherencia semántica entre el sitio web, el perfil de negocio y las señales de proximidad geográfica.\n\n## Optimización de Entidades y Grafo de Conocimiento\n\nEl motor de búsqueda ya no 'lee' páginas, sino que identifica entidades. Para clínicas y restaurantes de alto standing, es imperativo implementar un marcado de esquema (Schema.org) que vincule explícitamente la ubicación física con la autoridad de marca.\n\n### Implementación de Schema Local Avanzado\n\nEl uso de `LocalBusiness`, `MedicalBusiness` o `Restaurant` debe ir acompañado de propiedades `sameAs` que conecten tu ecosistema digital con fuentes de autoridad (perfiles sociales, directorios de sector verificados y menciones en prensa especializada).\n\n## Tabla Comparativa: Impacto en el Ranking Local\n\n| Factor de Optimización | Impacto en Local Pack | Nivel de Complejidad |\n| :--- | :--- | :--- |\n| Datos Estructurados (JSON-LD) | Crítico | Medio |\n| Consistencia NAP (Nombre, Dir, Tel) | Crítico | Bajo |\n| Latencia de Carga (Core Web Vitals) | Alto | Alto |\n| Densidad de Entidades Semánticas | Alto | Medio |\n\n## Checklist para la Dominancia Geográfica\n\nPara asegurar que tu negocio destaque frente a la competencia, sigue este protocolo técnico:\n\n* **Auditoría de consistencia NAP:** Asegura que cada mención en la web coincida al píxel con tu Google Business Profile.\n* **Geotagging de recursos visuales:** Optimiza los metadatos EXIF de todas las imágenes de alta resolución en tu sitio y perfil.\n* **Arquitectura de silos geográficos:** Crea páginas de aterrizaje específicas para cada área de influencia con contenido único y relevante para la zona.\n* **Optimización de Core Web Vitals:** Un sitio lento penaliza la experiencia de usuario y, por ende, la conversión local.\n\n## La Ventaja Competitiva de Dexvoi\n\nLa optimización local no es una tarea estática; es un proceso continuo de afinación técnica. En Dexvoi, integramos tu infraestructura digital con los estándares más exigentes del mercado para garantizar que tu negocio no solo aparezca, sino que sea la opción preferente para tus clientes.\n\n¿Tu arquitectura web está limitando tu visibilidad local? Solicita hoy una **auditoría gratuita de SEO técnico y arquitectura de datos** con nuestro equipo de consultores senior en Dexvoi y posiciona tu marca en la cima del mercado premium."
+  },
+  {
     id: 'post-auto-1795275798650',
     slug: 'optimizacion-reservas-llms-arquitectura-baja-latencia-2026',
     title: "Optimización de Reservas con LLMs: Arquitectura de Baja Latencia 2026",
