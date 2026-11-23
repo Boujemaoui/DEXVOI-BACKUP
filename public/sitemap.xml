@@ -1236,4 +1236,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://dexvoi.com/es/blog/seguridad-y-rendimiento-ia-reservas-2qdc</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://dexvoi.com/es/blog/seguridad-y-rendimiento-ia-reservas-2qdc"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dexvoi.com/es/blog/seguridad-y-rendimiento-ia-reservas-2qdc"/>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
