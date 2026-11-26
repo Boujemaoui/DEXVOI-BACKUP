@@ -1260,4 +1260,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://dexvoi.com/es/blog/hiper-localizacion-semantica-estrategias-autoridad-geografic</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://dexvoi.com/es/blog/hiper-localizacion-semantica-estrategias-autoridad-geografic"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dexvoi.com/es/blog/hiper-localizacion-semantica-estrategias-autoridad-geografic"/>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
